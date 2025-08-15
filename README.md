@@ -1,4 +1,4 @@
- ##Lemur AssemblyAI Transcription Example
+Lemur AssemblyAI Transcription Example
 
 This project shows how to:
 - Upload an audio file to [AssemblyAI](https://www.assemblyai.com)
