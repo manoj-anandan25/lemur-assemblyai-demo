@@ -253,5 +253,4 @@ curl -X GET "https://api.assemblyai.com/v2/transcript/TRANSCRIPT_ID" \
 Hello everyone, thanks for joining today. We reviewed the sprint goals...
 ```
 
-Do you want me to now bundle this README, the `main.py`, and `requirements.txt` into a **GitHub-ready `lemur-assemblyai-demo` zip** so you can upload in one go?
-```
+
