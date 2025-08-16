@@ -19,7 +19,7 @@ In this example:
 2. Lemur sends it to **AssemblyAI**, which is a smart service that understands speech.
 3. Lemur waits until AssemblyAI finishes writing everything down.
 4. You get the full text **and** a short bullet-point summary.
-5. You get the full text and the a bullet-point summary.
+
 
 ---
 
